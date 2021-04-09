@@ -2,7 +2,7 @@
 
 [![Data Engineer](https://raw.githubusercontent.com/AshinSasi/Data-Engineeering/main/Images/data-engineer-jobjpg.png "Data Engineer")](https://raw.githubusercontent.com/AshinSasi/Data-Engineeering/main/Images/data-engineer-jobjpg.png "Data Engineer")
 
-## 5 things you should know for a career in data engineering
+## 5 THINGS YOU SHOULD KNOW FOR A CAREER IN DATA ENGINEERING
 
 ###1.  You must be a strong developer
 
@@ -37,6 +37,6 @@
 **"Data engineering is a job that takes a lifetime to master," Tam says. "Every year there's something new to learn. You're never doing the same thing year after year."**
 
 [[1]Lee Schlesinger][1]
-[1]: https://www.stitchdata.com/blog/5-things-you-should-know-for-career-in-data-engineering/ "5 things you should know for a career in data engineering"
+[1]: https://www.stitchdata.com/blog/5-things-you-should-know-for-career-in-data-engineering/
 
 
