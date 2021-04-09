@@ -4,7 +4,7 @@
 
 ## 5 THINGS YOU SHOULD KNOW FOR A CAREER IN DATA ENGINEERING
 
-###1.  You must be a strong developer
+####1.  You must be a strong developer
 
 ###2. You need to know about a lot of technologies
 
